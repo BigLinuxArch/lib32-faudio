@@ -38,3 +38,4 @@ package() {
 
   install -Dm644 FAudio-$pkgver/LICENSE -t "$pkgdir"/usr/share/licenses/$pkgname
 }
+
